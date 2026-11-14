@@ -1,0 +1,17 @@
+{
+  "as_of_region": "West",
+  "history": [
+    {
+      "customer": "c1",
+      "from": "2025-01-01",
+      "region": "West",
+      "to": "2025-03-01"
+    },
+    {
+      "customer": "c1",
+      "from": "2025-03-01",
+      "region": "East",
+      "to": null
+    }
+  ]
+}

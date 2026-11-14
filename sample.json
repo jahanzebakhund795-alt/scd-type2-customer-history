@@ -1,0 +1,23 @@
+{
+  "changes": [
+    {
+      "customer": "c1",
+      "region": "West",
+      "at": "2025-01-01"
+    },
+    {
+      "customer": "c1",
+      "region": "West",
+      "at": "2025-02-01"
+    },
+    {
+      "customer": "c1",
+      "region": "East",
+      "at": "2025-03-01"
+    }
+  ],
+  "lookup": {
+    "customer": "c1",
+    "at": "2025-02-15"
+  }
+}
